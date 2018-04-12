@@ -1,0 +1,22 @@
+.load-img{
+  text-align:center;
+}
+.alp-hide{
+  display:none;
+}
+
+.alp-load-more{
+  text-align:center;
+}
+
+.alp-load-more-button{
+  padding: 15px 20px;
+  font-size: 16px;
+  background-color: transparent;
+  border: 1px solid;
+  cursor: pointer;
+}
+
+.alp-empty-msg{
+  text-align:center;
+}

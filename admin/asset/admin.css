@@ -1,0 +1,44 @@
+.alp{
+  margin-top:50px;
+}
+
+.alp-main{
+  width: 50%;
+  margin: 20px 0;
+  border: 1px solid #e5e5e5;
+  background: white;
+}
+
+.alp-setting-left{
+  float: left;
+  width: 25%;
+}
+
+.alp-setting-right{
+  float: left;
+  width: 75%;
+}
+
+.alp-setting-option{
+  width: 100%;
+  display: inline-block;
+  font-size: 16px;
+  margin: 15px 0;
+}
+
+.alp-title{
+  font-size: 20px;
+  margin: 20px 0;
+  padding: 15px 20px;
+}
+
+.alp-basic-setting{
+  padding: 0 20px;
+}
+
+#animate-img{
+  width: 25px;
+  display: inline-block;
+  vertical-align: middle;
+}
+
